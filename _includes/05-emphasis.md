@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I _write_ and _edit_ things related to **open source** and **cloud security**. Also, _cats really like me_. :sparkles:
